@@ -41,7 +41,7 @@ map("n", "<TAB>", "<CMD>bnext<CR>")
 map("n", "<S-TAB>", "<CMD>bprevious<CR>")
 
 -- Terminal
-map("n", "th", "<CMD>ToggleTerm size=10 direction=horizontal<CR>")
+map("n", ",th", "<CMD>ToggleTerm size=10 direction=horizontal<CR>")
 map("n", ",tv", "<CMD>ToggleTerm size=80 direction=vertical<CR>")
 
 -- Markdown Preview
